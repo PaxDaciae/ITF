@@ -82,7 +82,7 @@ public class InEchipa {
             //If the user chose an option that's not valid, then
             default:
                 //Tell them their choice is not valid and
-                System.out.println("valoare incorecta");
+                System.out.println("Valoare incorecta");
                 //Switch loop ends
                 break;
 
